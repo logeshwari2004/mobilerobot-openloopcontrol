@@ -92,15 +92,15 @@ if __name__ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./r1.png)
+![output](./r1.png)
 
 ## Robot Start point:
 
-![robo](./r2.png)
+![output](./r2.png)
 
 ## Robot End point:
 
-![robo](./r3.png)
+![output](./r3.png)
 
 
 ## MobileRobot Movement Video:
